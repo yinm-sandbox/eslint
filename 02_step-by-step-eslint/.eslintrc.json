@@ -3,9 +3,11 @@
     "browser": true,
     "jquery": true
   },
+  "extends": "eslint:recommended",
   "globals": {
   },
   "rules": {
+    "no-console": "off",
     "no-extra-semi": "warn",
     "no-undef": "warn",
     "quotes": ["warn", "single"],
