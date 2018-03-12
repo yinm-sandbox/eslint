@@ -1,3 +1,4 @@
+/*eslint no-console: "warn"*/
 document.getElementById('alert').addEventListener('click', function () {
   alert('document.getElementByIdのalert');
 });
