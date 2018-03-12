@@ -1,5 +1,5 @@
 document.getElementById('alert').addEventListener('click', function (){
-  alert("document.getElementByIdのalert");
+  alert('document.getElementByIdのalert');
 });
 
 $('#alert').on('click', function () {
